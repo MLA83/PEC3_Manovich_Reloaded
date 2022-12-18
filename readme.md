@@ -11,3 +11,29 @@ La hibridación es la combinación de técnicas y formatos de medios físicos y 
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e5fe2146989475.62ba980106f36.png" alt="Personajes creados con Midjourney del autor Jeff Han" width="960">
                                                                                                                                           **Autor Jeff Han**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Referencias y Bibliografía
+01. Adell, F. *Fundamentos y evolución de la multimedia » Remediación, multimedia e hibridación de los medios. Editorial UOC * Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+02. Cristóbal, J. (2022, 14 febrero). *Markdown - La guía definitiva en español. Markdown.* Disponible en: https://markdown.es/
+03. Manovich, Lev (2013). *El software toma el mando. * Disponible en: https://materials.campus.uoc.edu
