@@ -55,17 +55,6 @@ Fur Affinity indica "Las aplicaciones de IA y machine learning recurren al traba
 
 
 
-
- 
-
-
-
-
-
-
-
-
-
 ## Re-descubriendo la hibridacion: Caso 2 - Eko Studio
 
 
