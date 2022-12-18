@@ -11,7 +11,11 @@ La hibridación es la combinación de técnicas y formatos de medios físicos y 
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e5fe2146989475.62ba980106f36.png" alt="Personajes creados con Midjourney del autor Jeff Han" width="960">
                                                                                                                                           **Autor Jeff Han**
-## Midjourney
+### Re-descubriendo la hibridacion: Caso 1 - Midjourney
+
+
+
+### Re-descubriendo la hibridacion: Caso 1 - Eko Studio
 
 
 
