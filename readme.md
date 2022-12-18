@@ -49,7 +49,7 @@ Fur Affinity indica "Las aplicaciones de IA y machine learning recurren al traba
 
 
 <img src="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2022/09/01/obra-theatre-dopera-spatial-generada-mediante-ia.jpeg" alt="Gana un premio con Imagen creada con Midjourney" width="960">
-> "*Imagen creada con IA del autor Jason Allen*". 
+> "*Imagen creada con IA del autor Jason Allen*".   
 
 
 
