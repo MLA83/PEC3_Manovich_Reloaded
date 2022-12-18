@@ -9,12 +9,14 @@ La hibridación es la combinación de técnicas y formatos de medios físicos y 
 
 > "*Tal y como nos indica el libro ¨El Software toma el mando¨ de Lev Manovich, de la editorial UOC. ¨Los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes. En este caso el tipo de medio en sí, ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios.¨ algo que podemos ver claramente en los dos casos de estudio que vamos analizar, midjourney y Eko Studio.*". 
 
+Hemos decidido seleccionar Midjourney y Eko Studio como dos casos de éxito producidos por la hibridación. 
+
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e5fe2146989475.62ba980106f36.png" alt="Personajes creados con Midjourney del autor Jeff Han" width="960">
                                                                             
 > "*Autor Jeff Han.*".                                                                                                                                  
                                                                                                                                           
  
- Hemos decidido seleccionar Midjourney y Eko Studio como dos casos de éxito producidos por la hibridación. 
+ 
  
                                                                                                                                           
 ### Re-descubriendo la hibridacion: Caso 1 - Midjourney
