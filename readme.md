@@ -56,9 +56,7 @@ Fur Affinity indica "Las aplicaciones de IA y machine learning recurren al traba
 
 
 ## Re-descubriendo la hibridación: Caso 2 - Eko Studio
-
-
-Podríamos indicar que se trata de un caso de remezclabilidad profunda
+Eko Studio es una herramienta online gratuita que permite crear contenido interactivo de gran calidad.  
 
 
 
