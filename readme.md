@@ -73,3 +73,4 @@ Podríamos indicar que se trata de un caso de remezclabilidad profunda
 03. Manovich, Lev (2013). *El software toma el mando.* Disponible en: https://materials.campus.uoc.edu
 04. Han, J. *Portfolio* Disponible en: https://jeffhandesign.com/work
 05. Edwards, B. (2022, 11 de Octubre) *“Too easy”—Midjourney tests dramatic new version of its AI image generator* Disponible en: https://arstechnica.com/information-technology/2022/11/midjourney-turns-heads-with-quality-leap-in-new-ai-image-generator-version/
+06. Batelli, C. (2022, 23 de Octubre) *La lampara de Aladino: Inteligencia artificial, arquitectura e imaginación* Disponible en: https://www.metalocus.es/es/noticias/la-lampara-de-aladino-inteligencia-artificial-arquitectura-e-imaginacion
