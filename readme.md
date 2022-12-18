@@ -5,7 +5,7 @@
 ---
 
 ## La Hibridación según Manovich
-La hibridación es la combinación de técnicas y formatos de medios físicos y electrónicos antiguos y junto con las nuevas técnicas de manipulación de la información y de formatos exclusivos del ordenador. Esta fase que comienza su evolución en los años 70, es conocida como la hibridación de los medios. 
+La hibridación es la combinación de técnicas y formatos de medios físicos y electrónicos antiguos, unidos a las nuevas técnicas de manipulación de la información y de formatos exclusivos del ordenador. Esta fase que comienza su evolución en los años 70, es conocida como la hibridación de los medios. 
 
 > "*Tal y como nos indica el libro "El Software toma el mando" de Lev Manovich, de la editorial UOC. ¨Los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes. En este caso el tipo de medio en sí, ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios.¨ algo que podemos ver claramente en los dos casos de estudio que vamos analizar, midjourney y Eko Studio.*". 
 
