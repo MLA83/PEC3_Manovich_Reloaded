@@ -38,6 +38,13 @@ Como vemos, Midjourney es un ejemplo de remezclabilidad profunda donde se mezcla
 Midjourney crea su arte digital ejecutando un bot dentro de su Discord, por ello, para poder crear alguna imagen con Midjourney, deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney),  e iniciar la prueba en uno de sus canales #newbies que encontrarás en la barra lateral. Escribe el comando "/imagine", hacer clic en :prompt y escribir un texto corto, descripción ó palabras que te gustaría que Midjourney te muestre, y podrás ver que una vez que el porcentaje 100% se muestre en la pantalla, Midjourney genera cuatro imágenes distintas de manera automática que podrás descargar, ampliar o transformar a tu gusto.
 
 
+Podemos afirmar que Midjourney es un ejemplo de hibridación de interfaz gráfica interactiva humano-ordenador, desarrollado gracias a la evolución de los diferentes elementos que lo componen. 
+
+En los años 50 se comenzó a hablar por primera vez de la Inteligencia Artificial con la creación de los primeros ordenadores y que ha ido evolucionando hasta tener redes neuronales, en el ámbito del diseño podemos indicar que a finales de los años 80, el arte se fue digitalizando hasta llegar a la evolución de nuestros días y en 2015 se desarrolló la Red Social Discord, el cuál es un servicio de mensajeria instantánea freeware que funciona a través de servidores y donde están separado los canales de texto y de voz y que funciona en Windows, MacOS, Android, iOS y Linux. 
+
+Gracias al desarrollo y evolución de estos elementos ha permitido que se haya desarrollado Midjourney tanto en sus capacidades de IA como en la plataforma donde se ejecuta. Como vemos, es un claro ejemplo de “remezclabilidad profunda” donde la tecnología y los medios funcionan como componentes de una nueva combinación de medios.
+
+
  
 <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/midjourney_v4_hero_2-800x450.jpg" alt="Imagenes creadas por Benj Edwards" width="960">
 
@@ -50,8 +57,6 @@ Desde el lanzamiento de Midjourney se han generado varias polémicas, por un lad
 Tras el aumento considerable de la creación de imágenes creadas por IA, e incluso una obra generada por Midjourney, haber ganado un concurso de bellas artes de la Feria Estatal de Colorado (Estados Unidos), algunas comunidades online de artistas están prohibiendo publicar imágenes generadas mediante este sistema, y están uniendo fuerzas para que no puedan presentarse a concurso, por ello, algunos sitios como Newgrounds, Inkblot Art o Fur Affinity han modificado sus políticas de contenidos prohibiendo la difusión de cualquier imagen que no haya sido creada directamente por humanos.
 
 Fur Affinity indica "Las aplicaciones de IA y machine learning recurren al trabajo de otros artistas para crear contenido: el contenido que generan puede hacer referencia a cientos, incluso miles, de obras de otros artistas para crear imágenes derivadas. Nuestro objetivo es apoyar a los artistas y su contenido. No creemos que sea lo mejor para nuestra comunidad permitir contenido generado por IA en la web".
-
-Podemos afirmar que Midjourney es un ejemplo de hibridación de interfaz gráfica interactiva humano-ordenador, desarrollado gracias a la evolución de los diferentes elementos que lo componen. En los años 50 se comenzó a hablar por primera vez de la Inteligencia Artificial con la creación de los primeros ordenadores y que ha ido evolucionando hasta tener redes neuronales, en el ámbito del diseño podemos indicar que a finales de los años 80, el arte se fue digitalizando hasta llegar a la evolución de nuestros días y en 2015 se desarrolló la Red Social Discord, el cuál es un servicio de mensajeria instantánea freeware que funciona a través de servidores y donde están separado los canales de texto y de voz y que funciona en Windows, MacOS, Android, iOS y Linux. Gracias al desarrollo y evolución de estos elementos ha permitido que se haya desarrollado Midjourney tanto en sus capacidades de IA como en la plataforma donde se ejecuta. Como vemos, es un claro ejemplo de “remezclabilidad profunda” donde la tecnología y los medios funcionan como componentes de una nueva combinación de medios.
 
 <img src="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2022/09/01/obra-theatre-dopera-spatial-generada-mediante-ia.jpeg" alt="Gana un premio con Imagen creada con Midjourney" width="960">
 
