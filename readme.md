@@ -48,7 +48,7 @@ Tras el aumento considerable de la creación de imágenes creadas por IA, alguna
 Fur Affinity indica "Las aplicaciones de IA y machine learning recurren al trabajo de otros artistas para crear contenido: el contenido que generan puede hacer referencia a cientos, incluso miles, de obras de otros artistas para crear imágenes derivadas. Nuestro objetivo es apoyar a los artistas y su contenido. No creemos que sea lo mejor para nuestra comunidad permitir contenido generado por IA en la web".
 
 
-
+<img src="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2022/09/01/obra-theatre-dopera-spatial-generada-mediante-ia.jpeg alt="Gana un premio con Imagen creada con Midjourney" width="960">
 
 
 
