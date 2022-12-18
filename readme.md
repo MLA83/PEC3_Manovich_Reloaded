@@ -34,6 +34,9 @@ Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raí
 
 > "*Autor Benj Edwards*".    
 
+### Polémica
+
+
 
 ## Re-descubriendo la hibridacion: Caso 2 - Eko Studio
 
