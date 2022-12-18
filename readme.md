@@ -26,14 +26,16 @@ Hemos decidido desarrollar nuestro proyecto sobre los siguientes casos de éxito
 Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raíz del texto que escribas. Midjourney utiliza la tecnología Deep Learning que recrea las conexiones del cerebro humano mediante "redes neuronales artificiales", y con la información obtenida mediante logaritmos de una base gigantesca lo transforma en imágenes. 
 Estos logaritmos utilizados en el Deep Learning, permiten a la máquina aprender y comprender el contexto gracias a imágenes, textos y audios y a través de sus redes neuronales ser capaz de reproducir esa información e ir ampliando de esta manera su base de datos, comportandose como un cerebro artificial que aprende, interpreta y genera respuestas sin necesidad de supervisión humana. 
 
+La inteligencia artificial, supone una nueva forma de pensar y de relación entre los humanos y las máquinas, convirtiéndose en un espejo del creador como artista y como persona y en la evolución de la hibridación de las herramientas tanto tecnológicas como manuales.
+
 Midjourney crea su arte digital ejecutando un bot dentro de su Discord, por ello, para poder crear alguna imagen con Midjourney, deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney),  e iniciar la prueba en uno de sus canales #newbies que encontrarás en la barra lateral. Escribe el comando "/imagine", hacer clic en :prompt y escribir un texto corto, descripción ó palabras que te gustaría que Midjourney te muestre, y podrás ver que una vez que el porcentaje 100% se muestre en la pantalla, Midjourney genera cuatro imágenes distintas de manera automática que podrás descargar, ampliar o transformar a tu gusto.
  
 <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/midjourney_v4_hero_2-800x450.jpg" alt="Imagenes creadas por Benj Edwards" width="960">
 
 > "*Imagen creada con IA del autor Benj Edwards*".    
 
-### Hibridación
-Midjourney es un proceso de hibridación que surge gracias a la evolución en el campo de la informática, el arte y gracias al contenido creado con anterioridad, permite a la máquina generar contenido nuevo a través del aprendizaje de sus redes neuronales. La inteligencia artificial, supone una nueva forma de pensar y de relación entre los humanos y las máquinas, convirtiéndose en un espejo del creador como artista y como persona y en la evolución de la hibridación de las herramientas tanto tecnológicas como manuales. 
+
+ 
 
 
 
