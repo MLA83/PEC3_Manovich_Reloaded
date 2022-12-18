@@ -45,6 +45,8 @@ Desde el lanzamiento de Midjourney se han generado varias polémicas, por un lad
 
 Tras el aumento considerable de la creación de imágenes creadas por IA, algunas comunidades online de artistas están prohibiendo publicar imágenes generadas mediante este sistema, y están uniendo fuerzas para que no puedan presentarse a concurso, por ello, algunos sitios como Newgrounds, Inkblot Art o Fur Affinity han modificado sus políticas de contenidos prohibiendo la difusión de cualquier imagen que no haya sido creada directamente por humanos.
 
+Fur Affinity indica "Las aplicaciones de IA y machine learning recurren al trabajo de otros artistas para crear contenido: el contenido que generan puede hacer referencia a cientos, incluso miles, de obras de otros artistas para crear imágenes derivadas. Nuestro objetivo es apoyar a los artistas y su contenido. No creemos que sea lo mejor para nuestra comunidad permitir contenido generado por IA en la web".
+
 
 
 
