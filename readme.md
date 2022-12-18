@@ -16,7 +16,7 @@ La hibridación es la combinación de técnicas y formatos de medios físicos y 
                                                                                                                                           
                                                                                                                                           
 ### Re-descubriendo la hibridacion: Caso 1 - Midjourney
-Midjourney es una IA parecida a DALL-E que es capaz de crear arte a raíz de texto que escribas. Para poder crear alguna ilustración deberás escribir el comando "/imagine", y dar espacio o Enter, seguido de aquello que quisieras que Midjourney te mostrase. 
+Midjourney es una IA parecida a DALL-E que es capaz de crear arte a raíz de texto que escribas. Para poder crear alguna ilustración deberás entrar en su canal de Discord, escribir el comando "/imagine", y dar espacio o Enter, seguido de aquello que quisieras que Midjourney te mostrase. 
 
 
 
