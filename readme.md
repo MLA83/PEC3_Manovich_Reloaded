@@ -7,7 +7,7 @@
 ## La Hibridación según Manovich
 La hibridación es la combinación de técnicas y formatos de medios físicos y electrónicos antiguos y junto con las nuevas técnicas de manipulación de la información y de formatos exclusivos del ordenador. Esta fase que comienza su evolución en los años 70, es conocida como la hibridación de los medios. 
 
-> "*Tal y como nos indica el libro ¨El Software toma el mando¨ de Lev Manovich, de la editorial UOC. ¨Los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes. En este caso el tipo de medio en sí, ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios.¨ algo que podemos ver claramente en los dos casos de estudio que vamos analizar, midjourney y Eko Studio.*". 
+> "*Tal y como nos indica el libro "El Software toma el mando" de Lev Manovich, de la editorial UOC. ¨Los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes. En este caso el tipo de medio en sí, ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios.¨ algo que podemos ver claramente en los dos casos de estudio que vamos analizar, midjourney y Eko Studio.*". 
 
 Hemos decidido desarrollar nuestro proyecto sobre los siguientes casos de éxito de hibridación:
 
@@ -31,7 +31,7 @@ La inteligencia artificial, supone una nueva forma de pensar y de relación entr
 
 Como vemos, Midjourney es un ejemplo de remezclabilidad profunda donde se mezclan Redes Sociales como es Discord, en donde han desarrollado un bot con Inteligencia Artificial y que aprende de todo el contenido que se va solicitando y va creando, además, de seguir aprendiendo del contenido que puede encontrar en la nube, mezclandose con el arte digital y su evolución y la interacción con los seres humanos que solicitan diferentes imagenes a esta red neuronal. 
 
-> "*Hoy encontramos la hibridación y la remezcla profunda con plena vigencia operando en todas las áreas de la cultura donde se usa el software. El mecanismo de hibridación no se limita al software para medios profesionales y los medios generados profesionalmente, sino que también tiene un papel primordial en la evolución del software y los servicios web denaturaleza social*" El Software toma el mando¨ de Lev Manovich, de la editorial UOC
+> "*Hoy encontramos la hibridación y la remezcla profunda con plena vigencia operando en todas las áreas de la cultura donde se usa el software. El mecanismo de hibridación no se limita al software para medios profesionales y los medios generados profesionalmente, sino que también tiene un papel primordial en la evolución del software y los servicios web denaturaleza social*" texto extraído del libro "El Software toma el mando" de Lev Manovich, de la editorial UOC
 
 
 ### ¿Cómo puedo crear con Midjourney arte digital?
