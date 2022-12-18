@@ -38,7 +38,7 @@ Midjourney crea su arte digital ejecutando un bot dentro de su Discord, por ello
 > "*Imagen creada con IA del autor Benj Edwards*".    
 
 
-### Polémica con las imágenes generadas con Midjourney
+### Polémica con las imágenes generadas con Inteligencia Artificial
 
 
 
