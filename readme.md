@@ -38,7 +38,7 @@ Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raí
 ## Re-descubriendo la hibridacion: Caso 2 - Eko Studio
 
 
-Podríamos indicar que se trata de un caso de remezcabilidad profunda
+Podríamos indicar que se trata de un caso de remezclabilidad profunda
 
 
 
