@@ -29,6 +29,8 @@ Estos logaritmos utilizados en el Deep Learning, permiten a la máquina aprender
 
 La inteligencia artificial, supone una nueva forma de pensar y de relación entre los humanos y las máquinas, convirtiéndose en un espejo del creador como artista y como persona y en la evolución de la hibridación de las herramientas tanto tecnológicas como manuales.
 
+### ¿Cómo puedo crear con Midjourney arte digital?
+
 Midjourney crea su arte digital ejecutando un bot dentro de su Discord, por ello, para poder crear alguna imagen con Midjourney, deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney),  e iniciar la prueba en uno de sus canales #newbies que encontrarás en la barra lateral. Escribe el comando "/imagine", hacer clic en :prompt y escribir un texto corto, descripción ó palabras que te gustaría que Midjourney te muestre, y podrás ver que una vez que el porcentaje 100% se muestre en la pantalla, Midjourney genera cuatro imágenes distintas de manera automática que podrás descargar, ampliar o transformar a tu gusto.
  
 <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/midjourney_v4_hero_2-800x450.jpg" alt="Imagenes creadas por Benj Edwards" width="960">
