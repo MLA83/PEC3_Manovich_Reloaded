@@ -29,6 +29,9 @@ Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raí
 
 
 
+Aunque estemos tratando con algoritmos en una base de datos gigantesca, hemos relegado a las máquinas del nivel más alto de la inteligencia humana: la imaginación. Detrás de esta palabra, muy utilizada en el lenguaje común, asociándola casi siempre a algo irreal, se esconde buena parte de la historia de la filosofía y del arte, tanto que los más grandes lexicógrafos y pensadores tienen dificultades para rastrear su verdadero origen.
+
+
 
 <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/midjourney_v4_hero_2-800x450.jpg" alt="Imagenes creadas por Benj Edwards" width="960">
 
@@ -64,3 +67,5 @@ Podríamos indicar que se trata de un caso de remezclabilidad profunda
 01. Adell, F. *Fundamentos y evolución de la multimedia » Remediación, multimedia e hibridación de los medios. Editorial UOC.* Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 02. Cristóbal, J. (2022, 14 febrero). *Markdown - La guía definitiva en español. Markdown.* Disponible en: https://markdown.es/
 03. Manovich, Lev (2013). *El software toma el mando.* Disponible en: https://materials.campus.uoc.edu
+04. Han, J. *Portfolio* Disponible en: https://jeffhandesign.com/work
+05. Edwards, B. (2022, 11 de Octubre) *“Too easy”—Midjourney tests dramatic new version of its AI image generator* Disponible en: https://arstechnica.com/information-technology/2022/11/midjourney-turns-heads-with-quality-leap-in-new-ai-image-generator-version/
