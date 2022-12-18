@@ -82,8 +82,11 @@ Por otro lado,  pienso que un mal uso de este tipo de herramientas como puede se
 ## Re-descubriendo la hibridación: Caso 2 - Eko Studio
 Eko Studio es una plataforma digital gratuita para creadores de contenido que permite crear videos y storytelling interactivos de gran calidad. Es una interfaz de sitios webs ramificados donde se puede subir imágenes, audios y videos que van contando diferentes historias dependiendo de las elecciones que tome el usuario, gracias a una tecnología disruptiva y a la inteligencia artificial permite que el usuario elija vivir su propia aventura. Una vez creado el material, se puede exponer en la galería y mostrarlo al resto de la Comunidad de creadores. 
 
+Los videos creados con la herramienta Eko Studio pueden tener diferentes finalidades como pueden ser narrativos, de marketing donde podemos incluso indicar si deseamos crear una campaña de Lead Generaton, de CTA, o outbound Marketing para el cierre de ventas. 
 
 <img src="https://studio.eko.com/resources/images/creators/choices.png" alt="Eko creators" width="960">
+
+
 
 
 
