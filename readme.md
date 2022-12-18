@@ -22,10 +22,10 @@ Hemos decidido desarrollar nuestro proyecto sobre los siguientes casos de éxito
  
  
                                                                                                                                           
-### Re-descubriendo la hibridacion: Caso 1 - Midjourney
+## Re-descubriendo la hibridacion: Caso 1 - Midjourney
 Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raíz del texto que escribas. Para poder crear alguna ilustración deberás entrar en su canal de Discord, escribir el comando "/imagine", y dar a la tecla espacio o Enter, seguido de aquello que te gustaría que Midjourney te muestre, y podrás ver cómo te devuelve varias ilustraciones distintas de manera automática. 
 
-## Hibridación
+### Hibridación
 
 
 
@@ -35,7 +35,7 @@ Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raí
 > "*Autor Benj Edwards.*".    
 
 
-### Re-descubriendo la hibridacion: Caso 2 - Eko Studio
+## Re-descubriendo la hibridacion: Caso 2 - Eko Studio
 
 
 Podríamos indicar que se trata de un caso de remezcabilidad profunda
