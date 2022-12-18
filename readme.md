@@ -33,6 +33,9 @@ Midjourney crea su arte digital ejecutando un bot dentro de su Discord, por ello
 > "*Imagen creada con IA del autor Benj Edwards*".    
 
 ### Hibridación
+Midjourney es un proceso de hibridación que surge gracias a la evolución en el campo de la informática, el arte y uniéndolo al contenido creado con anterioridad que permite a la máquina generar contenido nuevo gracias al aprendizaje de sus redes neuronales. La inteligencia artificial, supone una nueva forma de pensar y de relación entre los humanos y las máquinas, volviéndose un espejo del creador como artista y como persona y convirtiéndose en una evolución de la hibridación de las herramientas tanto tecnológicas como manuales. 
+
+
 
 
 
