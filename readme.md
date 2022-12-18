@@ -42,6 +42,8 @@ Gracias al desarrollo y evolución de estos elementos ha permitido que se haya d
 
 <img src="https://i0.wp.com/www.silocreativo.com/wp-content/uploads/2022/07/the-afterlife-midjourney.jpg?resize=1199%2C580&quality=100&strip=all&ssl=1" alt="The Afterlife @toopze" width="960">
 
+> "*Imagen creada con IA del autor @toopze*".    
+
 
 ### ¿Cómo puedo crear con Midjourney arte digital?
 Midjourney crea su arte digital ejecutando un bot dentro de su Discord, por ello, para poder crear alguna imagen con Midjourney, deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney),  e iniciar la prueba en uno de sus canales #newbies que encontrarás en la barra lateral. Escribe el comando "/imagine", hacer clic en :prompt y escribir un texto corto, descripción ó palabras que te gustaría que Midjourney te muestre, y podrás ver que una vez que el porcentaje 100% se muestre en la pantalla, Midjourney genera cuatro imágenes distintas de manera automática que podrás descargar, ampliar o transformar a tu gusto.
