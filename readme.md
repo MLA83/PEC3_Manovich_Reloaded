@@ -29,6 +29,12 @@ Gracias a la IA
 
 
 
+
+<img src="https://i.pinimg.com/originals/f8/62/d2/f862d26a26afed6ed887a84a71cf8757.png" alt="Cat Armor creado con Midjourney por JuliaDArte" width="960">
+
+> "*Autor JuliaDArte.*".    
+
+
 ### Re-descubriendo la hibridacion: Caso 2 - Eko Studio
 
 
