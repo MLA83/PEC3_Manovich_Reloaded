@@ -56,7 +56,7 @@ Fur Affinity indica "Las aplicaciones de IA y machine learning recurren al traba
  
 
 
-https://www.youtube.com/watch?v=GqKnlBq2MA4
+
 
 
 
