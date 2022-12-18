@@ -30,9 +30,9 @@ Gracias a la IA
 
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgagadget.com%2Fes%2F163129-un-cuadro-creado-por-la-red-neuronal-de-midjourney-supero-el-trabajo-de-los-artistas-reales-y-gano-un-concurso-de-arte%2F&psig=AOvVaw0B7araOQdiEbueqF2Z__52&ust=1671420402210000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNCgwa2cgvwCFQAAAAAdAAAAABAI)" alt="Cuadro creado con Midjourney por Jason Allen" width="960">
+<img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/midjourney_v4_hero_2-800x450.jpg" alt="Imagenes creadas por Benj Edwards" width="960">
 
-> "*Autor Jason Allen.*".    
+> "*Autor Benj Edwards.*".    
 
 
 ### Re-descubriendo la hibridacion: Caso 2 - Eko Studio
