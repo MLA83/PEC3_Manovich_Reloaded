@@ -31,6 +31,8 @@ La inteligencia artificial, supone una nueva forma de pensar y de relación entr
 
 Como vemos, Midjourney es un ejemplo de remezclabilidad profunda donde se mezclan Redes Sociales como es Discord, en donde han desarrollado un bot con Inteligencia Artificial y que aprende de todo el contenido que se va solicitando y va creando, además, de seguir aprendiendo del contenido que puede encontrar en la nube, mezclandose con el arte digital y su evolución y la interacción con los seres humanos que solicitan diferentes imagenes a esta red neuronal. 
 
+> "*Hoy encontramos la hibridación y la remezcla profunda con plena vigencia operando en todas las áreas de la cultura donde se usa el software. El mecanismo de hibridación no se limita al software para medios profesionales y los medios generados profesionalmente, sino que también tiene un papel primordial en la evolución del software y los servicios web denaturaleza social*" El Software toma el mando¨ de Lev Manovich, de la editorial UOC
+
 
 ### ¿Cómo puedo crear con Midjourney arte digital?
 Midjourney crea su arte digital ejecutando un bot dentro de su Discord, por ello, para poder crear alguna imagen con Midjourney, deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney),  e iniciar la prueba en uno de sus canales #newbies que encontrarás en la barra lateral. Escribe el comando "/imagine", hacer clic en :prompt y escribir un texto corto, descripción ó palabras que te gustaría que Midjourney te muestre, y podrás ver que una vez que el porcentaje 100% se muestre en la pantalla, Midjourney genera cuatro imágenes distintas de manera automática que podrás descargar, ampliar o transformar a tu gusto.
