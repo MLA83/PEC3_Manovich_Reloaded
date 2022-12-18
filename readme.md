@@ -16,7 +16,7 @@ Hemos decidido desarrollar nuestro proyecto sobre los siguientes casos de éxito
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e5fe2146989475.62ba980106f36.png" alt="Personajes creados con Midjourney del autor Jeff Han" width="960">
                                                                             
-> "*Autor Jeff Han.*".                                                                                                                                  
+> "*Autor Jeff Han*".                                                                                                                                  
                                                                                                                                           
  
  
@@ -32,7 +32,7 @@ Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raí
 
 <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/midjourney_v4_hero_2-800x450.jpg" alt="Imagenes creadas por Benj Edwards" width="960">
 
-> "*Autor Benj Edwards.*".    
+> "*Autor Benj Edwards*".    
 
 
 ## Re-descubriendo la hibridacion: Caso 2 - Eko Studio
