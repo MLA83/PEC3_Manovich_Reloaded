@@ -55,8 +55,19 @@ Fur Affinity indica "Las aplicaciones de IA y machine learning recurren al traba
 
 
 
+
+
+### Conclusión
+Tras haber utilizado Midjourney puedo indicar que el uso de las herramientas de AI están cambiando la manera de relacionarnos con la máquina, pudiendo obtener de manera rápida un prompt que puede ayudar al artista a saber si es lo que desea desarrollar y poderlo llevar a cabo con otro tipo de herramientas. 
+
+Personalmente, creo que permite hacer un concept rápido que puede ser aprobado más rapidamente y no tener que crear un conjunto de imágenes de manera manual, sino que de una manera rápida saber que es lo que quiere el cliente y cómo poder desarrollarlo, ahorrando de esta manera tiempo y dinero. 
+Por otro lado,  pienso que un mal uso de este tipo de herramientas como puede ser presentar una imagen a concurso queriendo competir con otros artistas que han realizado su trabajo de manera manual o el mal uso que puede hacer las neuronas de la AI cogiendo imagenes de artistas y utilizandolas como propias, echa por tierra trabajo de investigación y puesta en marcha de artistas manuales, algo que está provocando que muchos artistas comiencen a ir en contra de este tipo de herramientas como es midjourney. 
+
+
+
+
 ## Re-descubriendo la hibridación: Caso 2 - Eko Studio
-Eko Studio es una plataforma digital gratuita para creadores de contenido que permite crear videos interactivos de gran calidad. Es una interfaz de sitios webs ramificados donde se puede subir imágenes, audios y videos y exponerlo en la galería al resto de la Comunidad de creadores. 
+Eko Studio es una plataforma digital gratuita para creadores de contenido que permite crear videos y storytelling interactivos de gran calidad. Es una interfaz de sitios webs ramificados donde se puede subir imágenes, audios y videos y exponerlo en la galería al resto de la Comunidad de creadores. 
 
 
 
