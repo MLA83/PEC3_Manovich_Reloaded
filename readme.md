@@ -30,9 +30,9 @@ Gracias a la IA
 
 
 
-<img src="https://i.pinimg.com/originals/f8/62/d2/f862d26a26afed6ed887a84a71cf8757.png" alt="Cat Armor creado con Midjourney por JuliaDArte" width="960">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgagadget.com%2Fes%2F163129-un-cuadro-creado-por-la-red-neuronal-de-midjourney-supero-el-trabajo-de-los-artistas-reales-y-gano-un-concurso-de-arte%2F&psig=AOvVaw0B7araOQdiEbueqF2Z__52&ust=1671420402210000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNCgwa2cgvwCFQAAAAAdAAAAABAI)" alt="Cuadro creado con Midjourney por Jason Allen" width="960">
 
-> "*Autor JuliaDArte.*".    
+> "*Autor Jason Allen.*".    
 
 
 ### Re-descubriendo la hibridacion: Caso 2 - Eko Studio
