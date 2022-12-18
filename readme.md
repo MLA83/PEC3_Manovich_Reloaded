@@ -41,7 +41,7 @@ Midjourney crea su arte digital ejecutando un bot dentro de su Discord, por ello
 
 
 ### Polémica por las imágenes generadas con Inteligencia Artificial
-
+Desde el lanzamiento de Midjourney se han generado varias polémicas, por un lado, los artistas tienen miedo que una máquina acabe realizando su trabajo y tengan que pivotar a otros campos. 
 
 
 
@@ -84,3 +84,4 @@ Podríamos indicar que se trata de un caso de remezclabilidad profunda
 05. Edwards, B. (2022, 11 de Octubre) *“Too easy”—Midjourney tests dramatic new version of its AI image generator* Disponible en: https://arstechnica.com/information-technology/2022/11/midjourney-turns-heads-with-quality-leap-in-new-ai-image-generator-version/
 06. Batelli, C. (2022, 23 de Octubre) *La lampara de Aladino: Inteligencia artificial, arquitectura e imaginación* Metalocus Disponible en: https://www.metalocus.es/es/noticias/la-lampara-de-aladino-inteligencia-artificial-arquitectura-e-imaginacion
 07. Garrido, L. *Midjourney. ¿Un punto de inflexión en el arte?* Disponible en: https://magmovies.net/es/midjourney/
+08. Merino, M. (2022, 14 de Septiembre). *Las comunidades online de artistas están prohibiendo publicar imágenes generadas mediante IA. DeviantArt aún no ha tomado posición* Disponible en: https://www.genbeta.com/imagen-digital/comunidades-online-artistas-estan-prohibiendo-publicar-imagenes-generadas-mediante-ia-deviantart-no-ha-tomado-posicion
