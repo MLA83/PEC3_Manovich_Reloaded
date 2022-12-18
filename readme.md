@@ -32,7 +32,7 @@ Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raí
 
 <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/midjourney_v4_hero_2-800x450.jpg" alt="Imagenes creadas por Benj Edwards" width="960">
 
-> "*Illustración del autor Benj Edwards*".    
+> "*Illustraciones del autor Benj Edwards*".    
 
 ### Polémica con las imágenes generadas con Midjourney
 
