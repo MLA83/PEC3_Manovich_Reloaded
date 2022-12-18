@@ -18,7 +18,7 @@ La hibridación es la combinación de técnicas y formatos de medios físicos y 
 
 
 
-### Re-descubriendo la hibridacion: Caso 1 - Eko Studio
+### Re-descubriendo la hibridacion: Caso 2 - Eko Studio
 
 
 
