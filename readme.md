@@ -23,7 +23,9 @@ Hemos decidido desarrollar nuestro proyecto sobre los siguientes casos de éxito
  
                                                                                                                                           
 ### Re-descubriendo la hibridacion: Caso 1 - Midjourney
-Midjourney es una IA parecida a DALL-E que es capaz de crear arte a raíz de texto que escribas. Para poder crear alguna ilustración deberás entrar en su canal de Discord, escribir el comando "/imagine", y dar espacio o Enter, seguido de aquello que quisieras que Midjourney te mostrase. 
+Midjourney es una IA parecida a DALL-E que es capaz de crear arte a raíz de texto que escribas. Para poder crear alguna ilustración deberás entrar en su canal de Discord, escribir el comando "/imagine", y dar espacio o Enter, seguido de aquello que quisieras que Midjourney te muestre, y podrás ver cómo te devuelve varias ilustraciones distintas. 
+
+Gracias a la IA 
 
 
 
