@@ -80,6 +80,7 @@ Por otro lado,  pienso que un mal uso de este tipo de herramientas como puede se
 Eko Studio es una plataforma digital gratuita para creadores de contenido que permite crear videos y storytelling interactivos de gran calidad. Es una interfaz de sitios webs ramificados donde se puede subir imágenes, audios y videos y exponerlo en la galería al resto de la Comunidad de creadores. 
 
 
+<img src="https://studio.eko.com/resources/images/creators/choices.png" alt="Eko creators" width="960">
 
 
 
