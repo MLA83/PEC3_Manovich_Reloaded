@@ -1,5 +1,5 @@
 # RETO ACTIVIDAD 3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación 
-### Recurso de aprendizaje Cultura digital
+### Recurso de aprendizaje de Cultura digital
 **Autor**: María López Alemany | **Fecha**: 18/12/2022
 
 ---
@@ -11,8 +11,8 @@ La hibridación es la combinación de técnicas y formatos de medios físicos y 
 
 Hemos decidido desarrollar nuestro proyecto sobre los siguientes casos de éxito de hibridación:
 
-- **Midjourney.**
-- **Eko Studio.**
+- **Midjourney.** [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
+- **Eko Studio.** [Eko Studio](https://studio.eko.com/)
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e5fe2146989475.62ba980106f36.png" alt="Personajes creados con Midjourney del autor Jeff Han" width="960">
                                                                             
@@ -23,7 +23,7 @@ Hemos decidido desarrollar nuestro proyecto sobre los siguientes casos de éxito
  
                                                                                                                                           
 ### Re-descubriendo la hibridacion: Caso 1 - Midjourney
-Midjourney es una IA parecida a DALL-E que es capaz de crear arte a raíz de texto que escribas. Para poder crear alguna ilustración deberás entrar en su canal de Discord, escribir el comando "/imagine", y dar espacio o Enter, seguido de aquello que quisieras que Midjourney te muestre, y podrás ver cómo te devuelve varias ilustraciones distintas. 
+Midjourney es una IA parecida a DALL-E que es capaz de crear arte a raíz de texto que escribas. Para poder crear alguna ilustración deberás entrar en su canal de Discord, escribir el comando "/imagine", y dar espacio o Enter, seguido de aquello que quisieras que Midjourney te muestre, y podrás ver cómo te devuelve varias ilustraciones distintas de manera automática. 
 
 Gracias a la IA 
 
