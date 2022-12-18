@@ -38,7 +38,7 @@ Gracias a la IA
 ### Re-descubriendo la hibridacion: Caso 2 - Eko Studio
 
 
-
+Podríamos indicar que se trata de un caso de remezcabilidad profunda
 
 
 
