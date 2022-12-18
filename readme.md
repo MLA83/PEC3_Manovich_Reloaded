@@ -37,7 +37,7 @@ Como vemos, Midjourney es un ejemplo de remezclabilidad profunda donde se mezcla
 ### ¿Cómo puedo crear con Midjourney arte digital?
 Midjourney crea su arte digital ejecutando un bot dentro de su Discord, por ello, para poder crear alguna imagen con Midjourney, deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney),  e iniciar la prueba en uno de sus canales #newbies que encontrarás en la barra lateral. Escribe el comando "/imagine", hacer clic en :prompt y escribir un texto corto, descripción ó palabras que te gustaría que Midjourney te muestre, y podrás ver que una vez que el porcentaje 100% se muestre en la pantalla, Midjourney genera cuatro imágenes distintas de manera automática que podrás descargar, ampliar o transformar a tu gusto.
 
-
+### Hibridación
 Podemos afirmar que Midjourney es un ejemplo de hibridación de interfaz gráfica interactiva humano-ordenador, desarrollado gracias a la evolución de los diferentes elementos que lo componen. 
 
 En los años 50 se comenzó a hablar por primera vez de la Inteligencia Artificial con la creación de los primeros ordenadores y que ha ido evolucionando hasta tener redes neuronales, en el ámbito del diseño podemos indicar que a finales de los años 80, el arte se fue digitalizando hasta llegar a la evolución de nuestros días y en 2015 se desarrolló la Red Social Discord, el cuál es un servicio de mensajeria instantánea freeware que funciona a través de servidores y donde están separado los canales de texto y de voz y que funciona en Windows, MacOS, Android, iOS y Linux. 
