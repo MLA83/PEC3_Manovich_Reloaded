@@ -33,10 +33,6 @@ Como vemos, Midjourney es un ejemplo de remezclabilidad profunda donde se mezcla
 
 > "*Hoy encontramos la hibridación y la remezcla profunda con plena vigencia operando en todas las áreas de la cultura donde se usa el software. El mecanismo de hibridación no se limita al software para medios profesionales y los medios generados profesionalmente, sino que también tiene un papel primordial en la evolución del software y los servicios web de naturaleza social*" texto extraído del libro "El Software toma el mando" de Lev Manovich, de la editorial UOC
 
-
-### ¿Cómo puedo crear con Midjourney arte digital?
-Midjourney crea su arte digital ejecutando un bot dentro de su Discord, por ello, para poder crear alguna imagen con Midjourney, deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney),  e iniciar la prueba en uno de sus canales #newbies que encontrarás en la barra lateral. Escribe el comando "/imagine", hacer clic en :prompt y escribir un texto corto, descripción ó palabras que te gustaría que Midjourney te muestre, y podrás ver que una vez que el porcentaje 100% se muestre en la pantalla, Midjourney genera cuatro imágenes distintas de manera automática que podrás descargar, ampliar o transformar a tu gusto.
-
 ### Hibridación
 Podemos afirmar que Midjourney es un ejemplo de hibridación de interfaz gráfica interactiva humano-ordenador, desarrollado gracias a la evolución de los diferentes elementos que lo componen. 
 
@@ -44,6 +40,10 @@ En los años 50 se comenzó a hablar por primera vez de la Inteligencia Artifici
 
 Gracias al desarrollo y evolución de estos elementos ha permitido que se haya desarrollado Midjourney tanto en sus capacidades de IA como en la plataforma donde se ejecuta. Como vemos, es un claro ejemplo de “remezclabilidad profunda” donde la tecnología y los medios funcionan como componentes de una nueva combinación de medios.
 
+
+
+### ¿Cómo puedo crear con Midjourney arte digital?
+Midjourney crea su arte digital ejecutando un bot dentro de su Discord, por ello, para poder crear alguna imagen con Midjourney, deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney),  e iniciar la prueba en uno de sus canales #newbies que encontrarás en la barra lateral. Escribe el comando "/imagine", hacer clic en :prompt y escribir un texto corto, descripción ó palabras que te gustaría que Midjourney te muestre, y podrás ver que una vez que el porcentaje 100% se muestre en la pantalla, Midjourney genera cuatro imágenes distintas de manera automática que podrás descargar, ampliar o transformar a tu gusto.
 
  
 <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/midjourney_v4_hero_2-800x450.jpg" alt="Imagenes creadas por Benj Edwards" width="960">
