@@ -56,7 +56,7 @@ Fur Affinity indica "Las aplicaciones de IA y machine learning recurren al traba
 
 
 ## Re-descubriendo la hibridación: Caso 2 - Eko Studio
-Eko Studio es una herramienta online gratuita que permite crear contenido interactivo de gran calidad.  
+Eko Studio es una plataforma digital gratuita para creadores de contenido que permite crear videos interactivos de gran calidad. Es una interfaz de sitios webs ramificados donde se puede subir imágenes, audios y videos y exponerlo en la galería al resto de la Comunidad de creadores. 
 
 
 
