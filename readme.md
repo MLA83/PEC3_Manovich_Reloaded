@@ -87,6 +87,7 @@ Los videos creados con la herramienta Eko Studio pueden tener diferentes finalid
 <img src="https://studio.eko.com/resources/images/creators/choices.png" alt="Eko creators" width="960">
 
 
+### Hibridación
 
 
 
