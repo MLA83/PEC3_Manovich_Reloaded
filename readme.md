@@ -29,7 +29,7 @@ Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raí
 
 
 
-Para poder crear alguna ilustración deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney), e iniciar la prueba en uno de sus canales #newbies que encontrarás en la barra lateral. Escribe el comando "/imagine" seguido de un texto corto, descripción ó palabras que te gustaría que Midjourney te muestre, y podrás ver cómo Midjourney te muestra cuatro imágenes distintas de manera automática que podrás descargar, ampliar o transformar a tu gusto. 
+Para poder crear alguna ilustración deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney), e iniciar la prueba en uno de sus canales #newbies que encontrarás en la barra lateral. Escribe el comando "/imagine", hacer clic en :prompt y escribir un texto corto, descripción ó palabras que te gustaría que Midjourney te muestre, y podrás ver cómo Midjourney te muestra cuatro imágenes distintas de manera automática que podrás descargar, ampliar o transformar a tu gusto. 
 
 ### Hibridación
 
