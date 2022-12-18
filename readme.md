@@ -24,22 +24,11 @@ Hemos decidido desarrollar nuestro proyecto sobre los siguientes casos de éxito
                                                                                                                                           
 ## Re-descubriendo la hibridacion: Caso 1 - Midjourney
 Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raíz del texto que escribas. Midjourney utiliza la tecnología Deep Learning que recrea las conexiones del cerebro humano mediante "redes neuronales artificiales", y con la información obtenida mediante logaritmos de una base gigantesca lo transforma en imágenes. 
-Estos logaritmos utilizados en el Deep Learning, permiten a la máquina aprender y comprender el contexto gracias a imágenes, textos y audios y a través de sus redes neuronales es capaz de reproducir estas imágenes, textos y audios e ir ampliando de esta manera su base de datos. 
+Estos logaritmos utilizados en el Deep Learning, permiten a la máquina aprender y comprender el contexto gracias a imágenes, textos y audios y a través de sus redes neuronales ser capaz de reproducir estas imágenes, textos y audios e ir ampliando de esta manera su base de datos, comportandose como un cerebro artificial que aprende, interpreta y genera respuestas sin necesidad de supervisión humana. 
 
-
+Midjourney crea su arte digital ejecutando un bot dentro de su Discord, por ello, para poder crear alguna imagen con Midjourney, deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney),  e iniciar la prueba en uno de sus canales #newbies que encontrarás en la barra lateral. Escribe el comando "/imagine", hacer clic en :prompt y escribir un texto corto, descripción ó palabras que te gustaría que Midjourney te muestre, y podrás ver cómo Midjourney te muestra cuatro imágenes distintas de manera automática que podrás descargar, ampliar o transformar a tu gusto. 
  
 
-
-
-Tiene al menos 3 capas de programación y, a diferencia del aprendizaje automático, sus algoritmos permiten un proceso de aprendizaje no estructurado. Esto significa básicamente que el sistema puede aprender y comprender el contexto de forma autónoma a partir de entradas no etiquetadas, como imágenes, documentos y audios, en lugar de lenguajes tabulares con datos estructurados y, repito, no necesita supervisión humana. Del mismo modo, es capaz de producir estas imágenes, textos y audios también.
-
-En definitiva, es un cerebro artificial que aprende, interpreta y es capaz de generar respuestas sin ayuda humana.
-
-Así es como funciona Midjourney para crear su arte digital. Se ejecuta desde un bot dentro de Discord, sin necesidad de una app, aunque he de decir que esto sería mucho más cómodo.
-
-
-
-Para poder crear alguna ilustración deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney), e iniciar la prueba en uno de sus canales #newbies que encontrarás en la barra lateral. Escribe el comando "/imagine", hacer clic en :prompt y escribir un texto corto, descripción ó palabras que te gustaría que Midjourney te muestre, y podrás ver cómo Midjourney te muestra cuatro imágenes distintas de manera automática que podrás descargar, ampliar o transformar a tu gusto. 
 
 ### Hibridación
 
