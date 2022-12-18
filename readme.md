@@ -41,7 +41,7 @@ Midjourney crea su arte digital ejecutando un bot dentro de su Discord, por ello
 
 
 ### Polémica por las imágenes generadas con Inteligencia Artificial
-Desde el lanzamiento de Midjourney se han generado varias polémicas, por un lado, algunos artistas tienen miedo que una máquina acabe realizando su trabajo y tengan que pivotar a otros campos y miran con incertidumbre el futuro en el mundo del Arte, mientras otros acogen esta nueva tecnología creando contenido utilizando Midjourney. 
+Desde el lanzamiento de Midjourney se han generado varias polémicas, por un lado, algunos artistas tienen miedo que una máquina acabe realizando su trabajo y tengan que pivotar a otros campos y miran con incertidumbre el futuro en el mundo del Arte, mientras otros acogen esta nueva tecnología creando contenido utilizando Midjourney ya que consideran que la mano humana siempre será necesaria para poder conseguir lo que el cliente necesita y quiere, y que una máquina por muy bien que haga su trabajo, no conseguirá esas características. 
 
 Tras el aumento considerable de la creación de imágenes creadas por IA, e incluso una obra generada por Midjourney, haber ganado un concurso de bellas artes de la Feria Estatal de Colorado (Estados Unidos), algunas comunidades online de artistas están prohibiendo publicar imágenes generadas mediante este sistema, y están uniendo fuerzas para que no puedan presentarse a concurso, por ello, algunos sitios como Newgrounds, Inkblot Art o Fur Affinity han modificado sus políticas de contenidos prohibiendo la difusión de cualquier imagen que no haya sido creada directamente por humanos.
 
