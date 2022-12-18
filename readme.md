@@ -11,8 +11,8 @@ La hibridación es la combinación de técnicas y formatos de medios físicos y 
 
 Hemos decidido desarrollar nuestro proyecto sobre los siguientes casos de éxito de hibridación:
 
-- **Midjourney.** [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
-- **Eko Studio.** [Eko Studio](https://studio.eko.com/)
+- [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)
+- [Eko Studio](https://studio.eko.com/)
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e5fe2146989475.62ba980106f36.png" alt="Personajes creados con Midjourney del autor Jeff Han" width="960">
                                                                             
