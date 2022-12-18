@@ -23,13 +23,18 @@ Hemos decidido desarrollar nuestro proyecto sobre los siguientes casos de éxito
  
                                                                                                                                           
 ## Re-descubriendo la hibridacion: Caso 1 - Midjourney
-Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raíz del texto que escribas. Para poder crear alguna ilustración deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney), escribir el comando "/imagine", y dar a la tecla espacio o Enter, seguido de aquello que te gustaría que Midjourney te muestre, y podrás ver cómo te devuelve varias ilustraciones distintas de manera automática. 
+Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raíz del texto que escribas. Las imagenes son creadas por los algoritmos de una base gigantesca que gracias a la tecnología Deep Learning 
+
+
+
+
+
+Para poder crear alguna ilustración deberás entrar en su canal de [Discord](https://discord.com/invite/midjourney), e iniciar la prueba en uno de sus canales #newbies que encontrarás en la barra lateral. Escribe el comando "/imagine", y dar a clic en el campo :prompt que encontrarás encima, seguido de un texto corto, descripción ó palabras que te gustaría que Midjourney te muestre, y podrás ver cómo te devuelve varias imágenes distintas de manera automática que podrás descargar, ampliar o transformar a tu gusto. 
 
 ### Hibridación
 
 
 
-Aunque estemos tratando con algoritmos en una base de datos gigantesca, hemos relegado a las máquinas del nivel más alto de la inteligencia humana: la imaginación. Detrás de esta palabra, muy utilizada en el lenguaje común, asociándola casi siempre a algo irreal, se esconde buena parte de la historia de la filosofía y del arte, tanto que los más grandes lexicógrafos y pensadores tienen dificultades para rastrear su verdadero origen.
 
 
 
