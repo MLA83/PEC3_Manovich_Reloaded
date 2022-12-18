@@ -40,8 +40,7 @@ En los años 50 se comenzó a hablar por primera vez de la Inteligencia Artifici
 
 Gracias al desarrollo y evolución de estos elementos ha permitido que se haya desarrollado Midjourney tanto en sus capacidades de IA como en la plataforma donde se ejecuta. Como vemos, es un claro ejemplo de “remezclabilidad profunda” donde la tecnología y los medios funcionan como componentes de una nueva combinación de medios.
 
-<img src="https://i0.wp.com/www.silocreativo.com/wp-content/uploads/2022/07/the-afterlife-midjourney.jpg?resize=1199%2C580&quality=100&strip=all&ssl=1
-" alt="The Afterlife @toopze" width="960">
+<img src="https://i0.wp.com/www.silocreativo.com/wp-content/uploads/2022/07/the-afterlife-midjourney.jpg?resize=1199%2C580&quality=100&strip=all&ssl=1" alt="The Afterlife @toopze" width="960">
 
 
 ### ¿Cómo puedo crear con Midjourney arte digital?
