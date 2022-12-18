@@ -58,6 +58,6 @@ Podríamos indicar que se trata de un caso de remezcabilidad profunda
 
 
 ## Referencias y Bibliografía
-01. Adell, F. *Fundamentos y evolución de la multimedia » Remediación, multimedia e hibridación de los medios. Editorial UOC * Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+01. Adell, F. *Fundamentos y evolución de la multimedia » Remediación, multimedia e hibridación de los medios. Editorial UOC.* Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 02. Cristóbal, J. (2022, 14 febrero). *Markdown - La guía definitiva en español. Markdown.* Disponible en: https://markdown.es/
-03. Manovich, Lev (2013). *El software toma el mando. * Disponible en: https://materials.campus.uoc.edu
+03. Manovich, Lev (2013). *El software toma el mando.* Disponible en: https://materials.campus.uoc.edu
