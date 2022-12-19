@@ -106,16 +106,12 @@ Eko Studio es un producto de interacción donde el texto, imágenes y sonidos ti
 
 <img src="https://i.ytimg.com/vi/qZY8Yjx7nf4/maxresdefault.jpg" alt="Eko creators" width="960">
 
+### Conclusión
+Cuando era pequeña me encantaba leer aquellos libros donde elegías tu propia aventura e ibas seleccionando como vivir tu propia experiencia. Cada vez más se van viendo películas y videos de narrativa interactiva que permiten al usuario elegir qué decisión tomar. 
 
+Netflix, por ejemplo, sacó "Black Mirror: Bandersnatch" donde nos relata la hstoria de un joven informático, donde el propio protagonista se cuestiona su realidad. 
 
-
-
-
-
-
-
-
-
+En el mundo actual donde los consumidores les gusta la inmediatez y es tan importante conseguir llamar la atención del espectador, el cuál está rodeado de estímulos, influir en sus emociones es primordial. Hemos de tener en mente que la generación millenial y Z les gusta vivir experiencias por lo que seguir desarrollando la hibridación en el campo interactivo será muy positivo para la evolución en el sector audiovisual e incluso en el campo del marketing ya que recordará la experiencia de manera positiva, influyendo en sus hábitos de compra y de consumo. 
 
 
 
