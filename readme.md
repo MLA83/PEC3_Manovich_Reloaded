@@ -88,7 +88,7 @@ Los videos creados con la herramienta Eko Studio pueden tener diferentes finalid
 
 
 ### Hibridación
-Eko Studio cuenta con una libreria de templates que se pueden modificar según las necesidades del creador y generar diferentes itinerarios que el usuario final podrá elegir con un simple click a los botones que le vayan apareciendo en la imagen y que tienen diferentes acciones, lo que le llevará al usuario a vivir diferentes experiencias según el botón al que decida hacer click y de esta manera apelar a sus emociones y sensaciones e impulsar a tomar una decisión u otra. 
+Eko Studio cuenta con una libreria de templates que se pueden modificar según las necesidades del creador y generar diferentes itinerarios gracias a un mapa de conexiones conectados a las acciones de los botones que el usuario podrá elegir a qué botón dar con un simple click, lo que le llevará a vivir diferentes experiencias según su elección, apelando de esta manera a sus emociones y sensaciones e impulsandole a tomar una decisión u otra. 
 
 > "*La nueva «estética global» aplaude la hibridez de medios y la utiliza para idear reacciones emocionales, impulsar discursos y conformar las experiencias del usuario. En otras palabras, todo se centra en la hibridez.(Manovich 2013)*" 
 > 
