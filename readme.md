@@ -102,7 +102,8 @@ Eko Studio es un producto de interacción donde el texto, imágenes y sonidos ti
 > "*Los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya
 existentes. En este caso el tipo de medio en sí ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios. (Manovich 2013)*".  
 
-<img src="https://studio.eko.com/resources/images/creators/choices.png](https://i.ytimg.com/vi/qZY8Yjx7nf4/maxresdefault.jpg" alt="Eko creators" width="960">
+<img src="https://i.ytimg.com/vi/qZY8Yjx7nf4/maxresdefault.jpg" alt="Eko creators" width="960">
+
 
 
 
