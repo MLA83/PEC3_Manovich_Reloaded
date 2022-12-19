@@ -91,12 +91,19 @@ Los videos creados con la herramienta Eko Studio pueden tener diferentes finalid
 Eko Studio cuenta con una libreria de templates que se pueden modificar según las necesidades del creador y generar diferentes itinerarios que el usuario final podrá elegir con un simple click a los botones que le vayan apareciendo en la imagen y que tienen diferentes acciones, lo que le llevará al usuario a vivir diferentes experiencias según el botón al que decida hacer click. 
 
 > "*La nueva «estética global» aplaude la hibridez de medios y la utiliza para idear reacciones emocionales, impulsar discursos y conformar las experiencias del usuario. En otras palabras, todo se centra en la hibridez.(Manovich 2013)*" 
+> 
+
+<img src="https://studio.eko.com/resources/images/creators/choices.png" alt="Eko creators" width="960">
+
 
 Eko Studio es un producto de interacción donde el texto, imágenes y sonidos tienen gran peso en la pieza audiovisual, aportando una experiencia interactiva al navegante. Como vemos, todos los medios que utiliza ya existian, los videos, los textos y los sonidos pero que gracias a un bot podemos crear una experiencia interactiva mediante mensajes automatizados con diferentes botones que el usuario va seleccionando y que nos permite de una manera creativa contar una historia, haciéndo participe al navegantes de sus elecciones. Podemos indicar que se trataría de un caso hibrido de interfaz de experiencia de usuario. 
 
  
 > "*Los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya
 existentes. En este caso el tipo de medio en sí ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios. (Manovich 2013)*".  
+
+<img src="https://studio.eko.com/resources/images/creators/choices.png](https://i.ytimg.com/vi/qZY8Yjx7nf4/maxresdefault.jpg" alt="Eko creators" width="960">
+
 
 
 
