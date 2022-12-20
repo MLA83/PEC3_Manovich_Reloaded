@@ -25,7 +25,7 @@ Teniendo clara la definición de hibridación, hemos decidido desarrollar nuestr
 ## Re-descubriendo la hibridación: Caso 1 - Midjourney
 Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raíz del texto que escribas. Midjourney utiliza la tecnología Deep Learning que recrea las conexiones del cerebro humano mediante "redes neuronales artificiales", y con la información obtenida mediante algoritmos de una base gigantesca lo transforma en imágenes. 
 
-Estos algoritmos utilizados en el Deep Learning, permiten a la máquina aprender y comprender el contexto gracias a imágenes, textos y audios y a través de sus redes neuronales ser capaz de reproducir esa información e ir ampliando de esta manera su base de datos, comportandose como un cerebro artificial que aprende, interpreta y genera respuestas sin necesidad de supervisión humana y "según Manovich", es una hibridación que combina tipos de datos y algoritmos.
+Estos algoritmos utilizados en el Deep Learning, permiten a la máquina aprender y comprender el contexto gracias a imágenes, textos y audios y a través de sus redes neuronales ser capaz de reproducir esa información e ir ampliando de esta manera su base de datos, comportandose como un cerebro artificial que aprende, interpreta y genera respuestas sin necesidad de supervisión humana.
 
 La inteligencia artificial, supone una nueva forma de pensar y de relación entre los humanos y las máquinas, convirtiéndose en un espejo del creador como artista y como persona y en la evolución de la hibridación de las herramientas tanto tecnológicas como manuales.
 
@@ -34,7 +34,7 @@ Como vemos, Midjourney es un ejemplo de remezclabilidad profunda donde se mezcla
 > "*Hoy encontramos la hibridación y la remezcla profunda con plena vigencia operando en todas las áreas de la cultura donde se usa el software. El mecanismo de hibridación no se limita al software para medios profesionales y los medios generados profesionalmente, sino que también tiene un papel primordial en la evolución del software y los servicios web de naturaleza social*" texto extraído del libro "El Software toma el mando" de Lev Manovich, de la editorial UOC
 
 ### Hibridación
-Podemos afirmar que Midjourney es un ejemplo de hibridación de interfaz gráfica interactiva humano-ordenador, desarrollado gracias a la evolución de los diferentes elementos que lo componen. 
+Podemos afirmar que que según Manovich, Midjourney es un ejemplo de hibridación que combina tipos de datos y algoritmos, desarrollado gracias a la evolución de los diferentes elementos que lo componen. 
 
 En los años 50 se comenzó a hablar por primera vez de la Inteligencia Artificial con la creación de los primeros ordenadores y que ha ido evolucionando hasta tener redes neuronales, en el ámbito del diseño podemos indicar que a finales de los años 80, el arte se fue digitalizando hasta llegar a la evolución de nuestros días y en 2015 se desarrolló la Red Social Discord, la cuál es un servicio de mensajeria instantánea freeware que funciona a través de servidores y donde están separado los canales de texto y de voz y que funciona en Windows, MacOS, Android, iOS y Linux. 
 
