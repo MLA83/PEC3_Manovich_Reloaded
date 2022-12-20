@@ -36,6 +36,8 @@ Como vemos, Midjourney es un ejemplo de remezclabilidad profunda donde se mezcla
 ### Hibridación
 Podemos afirmar que que según Manovich, Midjourney es un ejemplo de hibridación que combina tipos de datos y algoritmos, desarrollado gracias a la evolución de los diferentes elementos que lo componen. 
 
+> "*Cada herramienta presentada por una aplicación de autoría, edición o visualización de medios equivale a un algoritmo que o bien procesa de alguna forma los datos y les da un formato determinado o genera nuevos datos en ese formato.*
+
 En los años 50 se comenzó a hablar por primera vez de la Inteligencia Artificial con la creación de los primeros ordenadores y que ha ido evolucionando hasta tener redes neuronales, en el ámbito del diseño podemos indicar que a finales de los años 80, el arte se fue digitalizando hasta llegar a la evolución de nuestros días y en 2015 se desarrolló la Red Social Discord, la cuál es un servicio de mensajeria instantánea freeware que funciona a través de servidores y donde están separado los canales de texto y de voz y que funciona en Windows, MacOS, Android, iOS y Linux. 
 
 Gracias al desarrollo y evolución de estos elementos ha permitido que se haya desarrollado Midjourney tanto en sus capacidades de IA como en la plataforma donde se ejecuta. Como vemos, es un claro ejemplo de “remezclabilidad profunda” donde la tecnología y los medios funcionan como componentes de una nueva combinación de medios.
