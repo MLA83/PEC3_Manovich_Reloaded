@@ -25,7 +25,7 @@ Teniendo clara la definición de hibridación, hemos decidido desarrollar nuestr
 ## Re-descubriendo la hibridación: Caso 1 - Midjourney
 Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raíz del texto que escribas. Midjourney utiliza la tecnología Deep Learning que recrea las conexiones del cerebro humano mediante "redes neuronales artificiales", y con la información obtenida mediante algoritmos de una base gigantesca lo transforma en imágenes. 
 
-Estos algoritmos utilizados en el Deep Learning, permiten a la máquina aprender y comprender el contexto gracias a imágenes, textos y audios y a través de sus redes neuronales ser capaz de reproducir esa información e ir ampliando de esta manera su base de datos, comportandose como un cerebro artificial que aprende, interpreta y genera respuestas sin necesidad de supervisión humana. 
+Estos algoritmos utilizados en el Deep Learning, permiten a la máquina aprender y comprender el contexto gracias a imágenes, textos y audios y a través de sus redes neuronales ser capaz de reproducir esa información e ir ampliando de esta manera su base de datos, comportandose como un cerebro artificial que aprende, interpreta y genera respuestas sin necesidad de supervisión humana y "según Manovich", es una hibridación que combina tipos de datos y algoritmos.
 
 La inteligencia artificial, supone una nueva forma de pensar y de relación entre los humanos y las máquinas, convirtiéndose en un espejo del creador como artista y como persona y en la evolución de la hibridación de las herramientas tanto tecnológicas como manuales.
 
