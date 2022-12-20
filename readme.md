@@ -7,7 +7,7 @@
 ## La Hibridación según Manovich
 La hibridación es la combinación de técnicas y formatos de medios físicos y electrónicos antiguos, unidos a las nuevas técnicas de manipulación de la información y de formatos exclusivos del ordenador. Esta fase que comienza su evolución en los años 70, es conocida como la hibridación de los medios. 
 
-> "*Tal y como nos indica el libro "El Software toma el mando" de Lev Manovich, de la editorial UOC. ¨Los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes. En este caso el tipo de medio en sí, ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios.¨ algo que podemos ver claramente en los dos casos de estudio que vamos analizar, midjourney y Eko Studio.*". 
+> "*Tal y como nos indica el libro "El Software toma el mando" de Lev Manovich, de la editorial UOC. ¨Los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes. En este caso el tipo de medio en sí, ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios.¨ algo que podemos ver claramente en los dos casos de estudio que vamos analizar, Midjourney y Eko Studio.*". 
 
 Teniendo clara la definición de hibridación, hemos decidido desarrollar nuestro proyecto sobre los siguientes casos de éxito:
 
@@ -25,19 +25,19 @@ Teniendo clara la definición de hibridación, hemos decidido desarrollar nuestr
 ## Re-descubriendo la hibridación: Caso 1 - Midjourney
 Midjourney es una IA (Inteligencia Artificial) que es capaz de crear arte a raíz del texto que escribas. Midjourney utiliza la tecnología Deep Learning que recrea las conexiones del cerebro humano mediante "redes neuronales artificiales", y con la información obtenida mediante algoritmos de una base gigantesca lo transforma en imágenes. 
 
-Estos algoritmos utilizados en el Deep Learning, permiten a la máquina aprender y comprender el contexto gracias a imágenes, textos y audios y a través de sus redes neuronales ser capaz de reproducir esa información e ir ampliando de esta manera su base de datos, comportandose como un cerebro artificial que aprende, interpreta y genera respuestas sin necesidad de supervisión humana.
+Estos algoritmos utilizados en el Deep Learning, permiten a la máquina aprender y comprender el contexto gracias a imágenes, textos y audios y a través de sus redes neuronales ser capaz de reproducir esa información e ir ampliando de esta manera su base de datos, comportándose como un cerebro artificial que aprende, interpreta y genera respuestas sin necesidad de supervisión humana.
 
 La inteligencia artificial, supone una nueva forma de pensar y de relación entre los humanos y las máquinas, convirtiéndose en un espejo del creador como artista y como persona y en la evolución de la hibridación de las herramientas tanto tecnológicas como manuales.
 
-Como vemos, Midjourney es un ejemplo de remezclabilidad profunda donde se mezclan Redes Sociales como es Discord, en donde han desarrollado un bot con Inteligencia Artificial y que aprende de todo el contenido que se va solicitando y va creando, además, de seguir aprendiendo del contenido que puede encontrar en la nube, mezclandose con el arte digital y su evolución y la interacción con los seres humanos que solicitan diferentes imagenes a esta red neuronal. 
+Como vemos, Midjourney es un ejemplo de remezclabilidad profunda donde se mezclan Redes Sociales como es Discord, en donde han desarrollado un bot con Inteligencia Artificial y que aprende de todo el contenido que se va solicitando y va creando, además, de seguir aprendiendo del contenido que puede encontrar en la nube, mezclándose con el arte digital y su evolución y la interacción con los seres humanos que solicitan diferentes imágenes a esta red neuronal. 
 
 > "*Hoy encontramos la hibridación y la remezcla profunda con plena vigencia operando en todas las áreas de la cultura donde se usa el software. El mecanismo de hibridación no se limita al software para medios profesionales y los medios generados profesionalmente, sino que también tiene un papel primordial en la evolución del software y los servicios web de naturaleza social*" texto extraído del libro "El Software toma el mando" de Lev Manovich, de la editorial UOC
 
 ### Hibridación
-Podemos afirmar que que según Manovich, Midjourney es un ejemplo de hibridación que combina tipos de datos y algoritmos, desarrollado gracias a la evolución de los diferentes elementos que lo componen. 
+Podemos afirmar que según Manovich, Midjourney es un ejemplo de hibridación que combina tipos de datos y algoritmos, desarrollado gracias a la evolución de los diferentes elementos que lo componen. 
 
 
-En los años 50 se comenzó a hablar por primera vez de la Inteligencia Artificial con la creación de los primeros ordenadores y que ha ido evolucionando hasta tener redes neuronales, en el ámbito del diseño podemos indicar que a finales de los años 80, el arte se fue digitalizando hasta llegar a la evolución de nuestros días y en 2015 se desarrolló la Red Social Discord, la cuál es un servicio de mensajeria instantánea freeware que funciona a través de servidores y donde están separado los canales de texto y de voz y que funciona en Windows, MacOS, Android, iOS y Linux. 
+En los años 50 se comenzó a hablar por primera vez de la Inteligencia Artificial con la creación de los primeros ordenadores y que ha ido evolucionando hasta tener redes neuronales, en el ámbito del diseño podemos indicar que a finales de los años 80, el arte se fue digitalizando hasta llegar a la evolución de nuestros días y en 2015 se desarrolló la Red Social Discord, la cuál es un servicio de mensajería instantánea freeware que funciona a través de servidores y donde están separado los canales de texto y de voz y que funciona en Windows, MacOS, Android, iOS y Linux. 
 
 Gracias al desarrollo y evolución de estos elementos ha permitido que se haya desarrollado Midjourney tanto en sus capacidades de IA como en la plataforma donde se ejecuta. Como vemos, es un claro ejemplo de “remezclabilidad profunda” donde la tecnología y los medios funcionan como componentes de una nueva combinación de medios.
 
@@ -75,9 +75,9 @@ Fur Affinity indica "Las aplicaciones de IA y machine learning recurren al traba
 ### Conclusión
 Tras haber utilizado Midjourney puedo indicar que el uso de las herramientas de AI están cambiando la manera de relacionarnos con la máquina, pudiendo obtener de manera rápida un prompt que puede ayudar al artista a saber si es lo que desea desarrollar y poderlo llevar a cabo con otro tipo de herramientas. 
 
-Personalmente, creo que permite hacer un concept rápido que puede ser aprobado más rapidamente y no tener que crear un conjunto de imágenes de manera manual, sino que de una manera rápida saber que es lo que quiere el cliente y cómo poder desarrollarlo, ahorrando de esta manera tiempo y dinero. 
+Personalmente, creo que permite hacer un concept rápido que puede ser aprobado más rápidamente y no tener que crear un conjunto de imágenes de manera manual, sino que de una manera rápida saber que es lo que quiere el cliente y cómo poder desarrollarlo, ahorrando de esta manera tiempo y dinero. 
 
-Por otro lado,  pienso que un mal uso de este tipo de herramientas como puede ser presentar una imagen a concurso queriendo competir con otros artistas que han realizado su trabajo de manera manual o el mal uso que puede hacer las neuronas de la AI cogiendo imagenes de artistas y utilizandolas como propias, echa por tierra trabajo de investigación y puesta en marcha de artistas manuales, algo que está provocando que muchos artistas comiencen a ir en contra de este tipo de herramientas.
+Por otro lado,  pienso que un mal uso de este tipo de herramientas como puede ser presentar una imagen a concurso queriendo competir con otros artistas que han realizado su trabajo de manera manual o el mal uso que puede hacer las neuronas de la AI cogiendo imágenes de artistas y utilizándolas como propias, echa por tierra trabajo de investigación y puesta en marcha de artistas manuales, algo que está provocando que muchos artistas comiencen a ir en contra de este tipo de herramientas.
 
 
 
@@ -91,16 +91,16 @@ Los videos creados con la herramienta Eko Studio pueden tener diferentes finalid
 
 
 ### Hibridación
-Eko Studio cuenta con una libreria de templates que se pueden modificar según las necesidades del creador y generar diferentes itinerarios gracias a un mapa de conexiones conectados a las acciones de los botones que el usuario podrá elegir a qué botón dar con un simple click, lo que le llevará a vivir diferentes experiencias según su elección, apelando de esta manera a sus emociones y sensaciones e impulsandole a tomar una decisión u otra. 
+Eko Studio cuenta con una librería de templates que se pueden modificar según las necesidades del creador y generar diferentes itinerarios gracias a un mapa de conexiones conectados a las acciones de los botones que el usuario podrá elegir a qué botón dar con un simple clic, lo que le llevará a vivir diferentes experiencias según su elección, apelando de esta manera a sus emociones y sensaciones e impulsándole a tomar una decisión u otra. 
 
-> "*La nueva «estética global» aplaude la hibridez de medios y la utiliza para idear reacciones emocionales, impulsar discursos y conformar las experiencias del usuario. En otras palabras, todo se centra en la hibridez.(Manovich 2013)*" 
-> 
+> "*La nueva «estética global» aplaude la hibridez de medios y la utiliza para idear reacciones emocionales, impulsar discursos y conformar las experiencias del usuario. En otras palabras, todo se centra en la hibridez. (Manovich 2013)*" 
+
 
 <img src="https://studio.eko.com/resources/images/creators/payoff.png" alt="Eko creators" width="960">
 
 
 
-Eko Studio es un producto de interacción donde el texto, imágenes y sonidos tienen gran peso en la pieza audiovisual, aportando una experiencia interactiva al navegante. Como vemos, todos los medios que utiliza ya existian, los videos, los textos y los sonidos pero que gracias a un bot podemos crear una experiencia interactiva mediante mensajes automatizados con diferentes botones que el usuario va seleccionando y que nos permite de una manera creativa contar una historia, haciéndo participe al navegante de sus elecciones. Por todo esto, podemos indicar que se trataría de un caso hibridación de medios y de las herramientas que utiliza para interactuar con la máquina. 
+Eko Studio es un producto de interacción donde el texto, imágenes y sonidos tienen gran peso en la pieza audiovisual, aportando una experiencia interactiva al navegante. Como vemos, todos los medios que utiliza ya existían, los videos, los textos y los sonidos pero que gracias a un bot podemos crear una experiencia interactiva mediante mensajes automatizados con diferentes botones que el usuario va seleccionando y que nos permite de una manera creativa contar una historia, haciendo participe al navegante de sus elecciones. Por todo esto, podemos indicar que se trataría de un caso hibridación de medios y de las herramientas que utiliza para interactuar con la máquina. 
 
  
 > "*Los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes. En este caso el tipo de medio en sí ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios. (Manovich 2013)*".  
@@ -112,9 +112,9 @@ Eko Studio es un producto de interacción donde el texto, imágenes y sonidos ti
 ### Conclusión
 Cuando era pequeña me encantaba leer aquellos libros donde elegías tu propia aventura e ibas seleccionando como vivir tu propia experiencia. Cada vez más se van viendo películas y videos de narrativa interactiva que permiten al usuario elegir qué decisión tomar. 
 
-Netflix, por ejemplo, sacó "Black Mirror: Bandersnatch" donde nos relata la hstoria de un joven informático, donde el propio protagonista se cuestiona su realidad. 
+Netflix, por ejemplo, sacó "Black Mirror: Bandersnatch" donde nos relata la historia de un joven informático, donde el propio protagonista se cuestiona su realidad. 
 
-En el mundo actual donde los consumidores les gusta la inmediatez y es tan importante conseguir llamar la atención del espectador, el cuál está rodeado de estímulos, influir en sus emociones es primordial. Hemos de tener en mente que la generación millenial y Z les gusta vivir experiencias por lo que seguir desarrollando la hibridación en el campo interactivo será muy positivo para la evolución en el sector audiovisual e incluso en el campo del marketing ya que recordará la experiencia de manera positiva, influyendo en sus hábitos de compra y de consumo. 
+En el mundo actual donde los consumidores les gusta la inmediatez y es tan importante conseguir llamar la atención del espectador, el cual está rodeado de estímulos, influir en sus emociones es primordial. Hemos de tener en mente que la generación millenial y Z les gusta vivir experiencias por lo que seguir desarrollando la hibridación en el campo interactivo será muy positivo para la evolución en el sector audiovisual e incluso en el campo del marketing ya que recordará la experiencia de manera positiva, influyendo en sus hábitos de compra y de consumo. 
 
 
 
